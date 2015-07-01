@@ -1,0 +1,33 @@
+
+objects.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+enemy_wisp
+  rotate: false
+  xy: 2, 132
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+mana_orb
+  rotate: false
+  xy: 2, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+power_orb
+  rotate: false
+  xy: 518, 260
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+wisp
+  rotate: false
+  xy: 260, 132
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

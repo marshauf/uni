@@ -1,0 +1,1 @@
+javac -classpath . -d . CollisionScene.java GeometricObject.java GeometricObjectsScene.java Moveable.java MoveAndPaintable.java Paintable.java ScenePanel.java StartStopScenePanel.java Test.java Vertex.java
